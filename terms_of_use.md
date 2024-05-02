@@ -1,7 +1,5 @@
 # Terms of Use
 
-## Terms of Use for Etimad
-
 ### 1. Agreement to Terms
 
 By accessing or using our mobile application, Etimad, you agree that you have read, understood, and agree to be bound by these Terms of Use. If you do not agree with all of these terms, do not access or use the application.
