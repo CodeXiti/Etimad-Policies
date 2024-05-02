@@ -1,7 +1,5 @@
 # Privacy Policy
 
-## Privacy Policy for Etimad
-
 Etimad ("we," "us," or "our") respects the privacy of its users ("you"). This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our mobile application Etimad. Please read this privacy policy carefully. If you do not agree with the terms of this privacy policy, please do not access the application.
 
 ### Collection of Your Information
